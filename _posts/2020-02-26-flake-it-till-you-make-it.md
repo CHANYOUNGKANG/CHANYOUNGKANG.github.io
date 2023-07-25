@@ -1,9 +1,9 @@
 ---
 layout: post
 title: '1주차 항해일지 2023 - 07- 24 '
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: 'JVM, 변수, 타입'
 cover-img: /assets/img/앙몬드2.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/앙몬드2.png
 share-img: /assets/img/path.jpg
 tags:
   - books
