@@ -1,6 +1,12 @@
 ---
 published: false
+layout: post
+subtitle: '연산자, 조건문, 반복문'
+cover-img: /assets/img/앙몬드4.jpg
+thumbnail-img: /assets/img/앙몬드4.png
+share-img: /assets/img/1주차 타이틀.jpg
+tags:
+  - books
+  - test
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+2주ㅊ 항해
